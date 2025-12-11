@@ -110,7 +110,7 @@ Add dynamic charts and storytelling visuals
 Divya Sharma
 Email: divya649sharma99@gmail.com
 GitHub: github.com/Divya9916
-LinkedIn: linkedin.com/in/divya9916
+LinkedIn:www.linkedin.com/in/divya9916
 
 ## License
 
