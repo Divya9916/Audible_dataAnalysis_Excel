@@ -87,16 +87,8 @@ Top authors based on engagement
 Identification of high-price and long-duration outliers
 
 ## File Structure
-Audible-Excel-Analysis/
-│── data/
-│   ├── Audible_Raw_Data.xlsx
-│   └── Audible_Cleaned_Data.xlsx
-│
-│── analysis/
-│   ├── Audible_Pivot_Analysis.xlsx
-│   └── Audible_Charts.xlsx
-│
-│── README.md
+<img width="373" height="292" alt="image" src="https://github.com/user-attachments/assets/aeedeba1-ad3a-48cf-8e7a-b238d1d3d991" />
+
 
 ## Conclusion
 
