@@ -71,17 +71,11 @@ Pivot Tables – analyze author, genre, duration, and rating trends
 ## Exploratory Data Analysis (Excel)
 
 The analysis includes:
-
 Rating distribution
-
 Genre-level performance comparison
-
 Price vs rating insights
-
 Review count patterns
-
 Duration group analysis
-
 Top authors based on engagement
 
 Identification of high-price and long-duration outliers
@@ -91,7 +85,6 @@ Identification of high-price and long-duration outliers
 
 
 ## Conclusion
-
 The Excel-based Audible analysis provides clear insights into audiobook performance trends.
 By analyzing price, ratings, reviews, and duration entirely using Excel, the project demonstrates strong proficiency in data cleaning, transformation, and analysis using Excel tools and functions.
 
